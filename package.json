@@ -33,5 +33,8 @@
   "devDependencies": {
     "@types/node": "^13.13.4",
     "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@lightningjs/sdk": "^4.1.0"
   }
 }
